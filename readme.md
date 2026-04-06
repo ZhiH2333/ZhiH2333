@@ -1,14 +1,9 @@
 Hi, I'm Zhi 👋
 
-I'm learning **Flutter & Dart** by building real projects step by step.
+I'm learning **Flutter & Dart** and also **React Native**
 
 🚀 **Current project**
-- **Nebula** – a feed-based Flutter app
-- Flutter · Riverpod · Firebase
-
-📚 Focus
-- App architecture
-- State management
-- Firebase integration
+- SolianCE (This is an unofficial community client for Solsynth platform)
+- and... many tiny projects
 
 Still learning, still improving.
