@@ -1,9 +1,6 @@
-Hi, I'm Zhi 👋
+Hi, I'm ZhiH 👋
+A game maker & a full stack engineer.
+Subscribe our WPG and WPArea!
 
-I'm learning **Flutter & Dart** and also **React Native**
-
-🚀 **Current project**
-- SolianCE (This is an unofficial community client for Solsynth platform)
-- and... many tiny projects
-
-Still learning, still improving.
+现已入驻爱发电：https://ifdian.net/a/wp-series
+欢迎各位前来支持！
